@@ -1,0 +1,17 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.item {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+ .rev{
+    padding: 20px;
+    width: 100%;
+ }
+ .rev h2{
+    padding-bottom: 20px;
+ }
